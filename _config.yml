@@ -1,11 +1,13 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Meghan Wright # your name (or website title) here
+logo: "images/image003.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hello and welcome to my online portfolio! I am a Data Analyst. 
+  I have always been passionate about transforming mundane data points into business driving decisions
+  and that is what led me to pursue a career in this field. 
+  Over the years, I have gained a wealth of knowledge and experience through my four plus years working in data Analytics in Financial, Digital Marketing, Product based industries.
+  I am excited to share with you some of my past projects and accomplishments as well as my future goals. Thank you for visiting my portfolio. I hope you find it informative and enjoyable. 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/meghan-wright/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
